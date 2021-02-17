@@ -1,4 +1,4 @@
-This is an example github pages + mathjax file. The $ $ inline and the $$ $$ display equations work fine. 
+This is an example github pages + mathjax file. The \$ \$ inline and the \$\$ \$\$ display equations work fine. 
 
 When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
 $$x_{1,2} = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
